@@ -27,3 +27,16 @@
 
 
 ## Порядок установки
+
+```
+1. git clone git@github.com:trading-developer/proxy-market-test.git
+2. cd docker 
+3. make init
+```
+## Полезные команды
+
+```
+1. make tests - запуск тестов
+2. make gophp - переход в контейнер php
+3. и другие в файле Makefile
+```
